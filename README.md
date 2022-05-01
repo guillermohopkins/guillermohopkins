@@ -10,3 +10,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="400"/>
 </div>
+
+<a href="https://www.linkedin.com/in/guillermo-hopkins-perez/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>
